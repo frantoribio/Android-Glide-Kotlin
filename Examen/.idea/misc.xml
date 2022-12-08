@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android-kotlin/AppStor/Shop/app/src/main/res/drawable/ic_favorite.xml" value="0.1215" />
+        <entry key="..\:/Android-kotlin/AppStor/Shop/app/src/main/res/drawable/status_cb_favorito.xml" value="0.1215" />
+        <entry key="..\:/Android-kotlin/AppStor/Shop/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Android-kotlin/AppStor/Shop/app/src/main/res/layout/item_shop.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android-kotlin/AppStor/ShopRoom/app/src/main/res/layout/activity_main.xml" value="0.14791666666666667" />
+        <entry key="..\:/Android-kotlin/AppStor/ShopRoomCorrutinas/app/src/main/res/layout/activity_main.xml" value="0.14791666666666667" />
+        <entry key="..\:/Android-kotlin/AppStor/ShopRoomCorrutinas/app/src/main/res/layout/item_shop.xml" value="0.14791666666666667" />
+        <entry key="..\:/Android-kotlin/AppStor/ShopRoomFragExtra/app/src/main/res/layout/fragment_edit_store.xml" value="0.1" />
+        <entry key="..\:/Android-kotlin/AppStor/ShopRoomFragExtra/app/src/main/res/layout/item_shop.xml" value="0.14791666666666667" />
+        <entry key="..\:/Android-kotlin/AppStor/ShopRoomFragment/app/src/main/res/drawable/ic_check.xml" value="0.1" />
+        <entry key="..\:/Android-kotlin/AppStor/ShopRoomFragment/app/src/main/res/layout/activity_main.xml" value="0.14791666666666667" />
+        <entry key="..\:/Android-kotlin/AppStor/ShopRoomFragment/app/src/main/res/layout/dddd.xml" value="0.14791666666666667" />
+        <entry key="..\:/Android-kotlin/AppStor/ShopRoomFragment/app/src/main/res/layout/ddddd.xml" value="0.146875" />
+        <entry key="..\:/Android-kotlin/AppStor/ShopRoomFragment/app/src/main/res/layout/fragment_edit_store.xml" value="0.13385416666666666" />
+        <entry key="..\:/Android-kotlin/AppStor/ShopRoomFragment/app/src/main/res/layout/gggg.xml" value="0.1" />
+        <entry key="..\:/Android-kotlin/AppStor/ShopRoomFragment/app/src/main/res/menu/menu_store.xml" value="0.14791666666666667" />
+        <entry key="..\:/Android-kotlin/T02_Listas/Shop/app/src/main/res/drawable/status_cb_favorito.xml" value="0.1565" />
+        <entry key="..\:/Android-kotlin/T02_Listas/Shop/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android-kotlin/T02_Listas/Shop/app/src/main/res/layout/item_shop.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

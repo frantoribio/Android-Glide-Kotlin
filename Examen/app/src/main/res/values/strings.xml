@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Perfiles</string>
+    <string name="descripcion_photo">Imagen foto</string>
+    <string name="nombre_del_perfil">nombre del perfil</string>
+    <string name="descripcion">Esto es una descrición</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_name">Nombre de usuario</string>
+    <string name="helper_required">Requerido</string>
+    <string name="hint_phone">Teléfono</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_photo_url">URL de la imagen</string>
+    <string name="edit_perfil_title_add">Añadir Perfil</string>
+    <string name="menu_save">Guardar</string>
+</resources>
